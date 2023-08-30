@@ -4,14 +4,14 @@ title: Home
 
 # Home Room Weather Control System
 
-EGR314 Fall 2023 
+EGR314 Fall 2023  
 Professor Nichols  
 Team 305  
 Members:    
-Nicholas Dunn
-Jack Windle
-Uriah Villa
-Diego Rodriguez
+Nicholas Dunn  
+Jack Windle  
+Uriah Villa  
+Diego Rodriguez  
 
 
 # Table of Contents
