@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-
+ 
 # Home Room Weather Control System
 
 EGR314 Fall 2023  
