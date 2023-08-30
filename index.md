@@ -18,7 +18,6 @@ Diego Rodriguez
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
-* [Product Requirements](https://egr314-team-305.github.io/Team305.github.io/#product-requirements)
 * [Design Ideation](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
 * [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#final-selected-design)
@@ -39,9 +38,8 @@ Diego Rodriguez
   Our mission statement is that we want to learn about the detailed creation of subsystems and circuit boards. Through the process of creating a home automation system focusing on simplicity and reliability, we can create a system of multiple functioning pieces. Although sometimes complicated, creating this system of subsystems will allow us to learn and demonstrate growth in the field of engineering
 
 ## User Needs, Benchmarking, and Requirements  
-SUmmary goes here
-
-## Product Requirements 
+  When deciding upon which ideals are most important to the customer, we utilized a process similar to reverse engineering. We first collected multiple items similar to our desired project idea, and researched information on them. This allowed us to discover many uailities about the products, such as price, vendor, and many positive and negative reviews about each one. This allowed us to move to our next process: Jamboards.
+  A Jamboard is a sheet of notes with every idea, note, ideals, specifications, etc., about a given topic. It is similar to a whiteboard with dozens of post-it notes all across it. Digitally, we wrote down as many notes we could think of or find in the user reviews of similar products. This created a mess for us to sort through. We then organized them by what category they fit into. Project requirements, user wants, user needs, marketing, etc. After this, we rated each note based on how important it is to us as well as the customer, thus producing our main user needs. A full copy of our user needs can be found in [Appendis B](/02-user-needs-and-requirements.pdf)
 
 ## Design Ideation
 
