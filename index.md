@@ -8,9 +8,9 @@ EGR314 Fall 2023
 Professor Nichols  
 Team 305  
 Members:    
-Nicholas Dunn  
-Jack Windle  
-Uriah Villa  
+Nicholas Dunn,  
+Jack Windle,  
+Uriah Villa,  
 Diego Rodriguez  
 
 
