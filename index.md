@@ -67,3 +67,4 @@ Diego Rodriguez
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
+* [Appendix C: Design Ideation](/03-design-ideation.pdf)
