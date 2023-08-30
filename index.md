@@ -26,16 +26,17 @@ Diego Rodriguez
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
 * [System Verification](https://egr314-team-305.github.io/Team305.github.io/#system-verification)
+* [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
 ## Introduction: Team 204 Semester Project   
   
 ## Team Organization
-Summary goes here
-* [Team Orgaization Original Document](/01-team-organization.pdf)
+  With entering another project based class, our team needs to be a well functioning machine where every aspect works. Resulting in the team Charter, we developed a page of expectations for us to follow. This includes but is not limited to teamwork, communication, quality of work, and much more. Ensuring that all members of our group complete their share of workto a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, found below in [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
+
+  Our mission statement is that we want to learn about the detailed creation of subsystems and circuit boards. Through the process of creating a home automation system focusing on simplicity and reliability, we can create a system of multiple functioning pieces. Although sometimes complicated, creating this system of subsystems will allow us to learn and demonstrate growth in the field of engineering
 
 ## User Needs, Benchmarking, and Requirements  
 SUmmary goes here
-* [User Needs Original Document](/02-user-needs-and-requirements.pdf)
 
 ## Product Requirements 
 
@@ -57,3 +58,8 @@ SUmmary goes here
 ## Hardware and Software Implementation
 
 ## System Verification 
+
+
+## Appendix
+* [Appendix A: Team Organization](/01-team-organization.pdf)
+* [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
