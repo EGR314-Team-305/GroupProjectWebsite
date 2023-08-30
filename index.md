@@ -15,7 +15,7 @@ Diego Rodriguez
 
 
 # Table of Contents
-* [Example of link to](https://egr314-team204.github.io/#introduction-team-204-semester-project)
+* [Example of link to](https://egr314-team.github.io/#introduction-team-204-semester-project)
 
 ## Introduction: Team 204 Semester Project   
   
@@ -37,7 +37,7 @@ Diego Rodriguez
   
 * [Example of link text in RAW](/MicroSelect)
 
-* [Example of external link embed in RAW](https://docs.google.com/spreadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
+* [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
 ## Hardware and Software Implementation
 
