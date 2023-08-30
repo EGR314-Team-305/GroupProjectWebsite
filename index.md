@@ -15,8 +15,8 @@ Diego Rodriguez
 
 
 # Table of Contents
-* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)]
-* [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)]
+* [Introduction(https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)]
+* [Team Organization(https://egr314-team-305.github.io/Team305.github.io/#team-organization)]
 * [User Needs, Benchmarking and Reuirements]([https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)]
 * [Product Requirements]([https://egr314-team-305.github.io/Team305.github.io/#product-requirements)]
 * [Design Ideation]([https://egr314-team-305.github.io/Team305.github.io/#design-ideation)]
