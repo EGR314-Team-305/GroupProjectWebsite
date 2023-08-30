@@ -42,6 +42,7 @@ SUmmary goes here
 ## Design Ideation
 
 ## Presentations
+* [Checkpoint 1 Youtube Powerpoint Presentation](/youtube link here)
 
 ## Final Selected Design  
 
