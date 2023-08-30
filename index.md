@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Information
+# Home Room Weather Control System
 
 EGR314 Fall 2023 
-Professor Nicols  
+Professor Nichols  
 Team 305  
 Members:    
 Nicholas Dunn
@@ -15,7 +15,7 @@ Diego Rodriguez
 
 
 # Table of Contents
-* [Example of link to](https://egr314-team.github.io/#introduction-team-204-semester-project)
+* [Introduction]([https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)]
 
 ## Introduction: Team 204 Semester Project   
   
