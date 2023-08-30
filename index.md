@@ -31,7 +31,7 @@ Diego Rodriguez
   
 ## Team Organization
 Summary goes here
-* [Team Orgaization Original Document]
+* [Team Orgaization Original Document](/01-team-organization.pdf)
 
 ## User Needs, Benchmarking, and Requirements  
 SUmmary goes here
