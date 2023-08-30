@@ -15,17 +15,17 @@ Diego Rodriguez
 
 
 # Table of Contents
-* [Introduction(https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)]
-* [Team Organization(https://egr314-team-305.github.io/Team305.github.io/#team-organization)]
-* [User Needs, Benchmarking and Reuirements]([https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)]
-* [Product Requirements]([https://egr314-team-305.github.io/Team305.github.io/#product-requirements)]
-* [Design Ideation]([https://egr314-team-305.github.io/Team305.github.io/#design-ideation)]
-* [Presentations]([https://egr314-team-305.github.io/Team305.github.io/#presentations)]
-* [Final Selected Design]([https://egr314-team-305.github.io/Team305.github.io/#final-selected-design)]
-* [Block Diagram]([https://egr314-team-305.github.io/Team305.github.io/#block-diagram)]
-* [Component and Microcontroller Selection]([https://egr314-team-305.github.io/Team305.github.io/#block-diagram)]
-* [Hardware and Software Implemetation]([https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)]
-* [System Verification]([https://egr314-team-305.github.io/Team305.github.io/#system-verification)]
+* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
+* [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
+* [User Needs, Benchmarking and Reuirements]([https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
+* [Product Requirements]([https://egr314-team-305.github.io/Team305.github.io/#product-requirements)
+* [Design Ideation]([https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
+* [Presentations]([https://egr314-team-305.github.io/Team305.github.io/#presentations)
+* [Final Selected Design]([https://egr314-team-305.github.io/Team305.github.io/#final-selected-design)
+* [Block Diagram]([https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
+* [Component and Microcontroller Selection]([https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
+* [Hardware and Software Implemetation]([https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
+* [System Verification]([https://egr314-team-305.github.io/Team305.github.io/#system-verification)
 
 ## Introduction: Team 204 Semester Project   
   
