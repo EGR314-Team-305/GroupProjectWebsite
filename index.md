@@ -30,6 +30,8 @@ Diego Rodriguez
 ## Introduction: Team 204 Semester Project   
   
 ## Team Organization
+Summary goes here
+* [Team Orgaization Original Document](https://docs.google.com/document/d/1r23AiENXnP4t0XzWctSv4-h6k-9w74nSGSzy1_bOYNU/edit)
 
 ## User Needs, Benchmarking, and Requirements  
 
