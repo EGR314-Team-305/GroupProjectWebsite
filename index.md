@@ -55,6 +55,8 @@ Diego Rodriguez
 
   After choosing all of our subsystem components, we still needed to choose a microcontroller. Since we are not allowed to utilize the in-class PIC device, we had to find a device similar but fit inside of our requirements. This entailed a descriptive search for a proper chip. A full view of our process and parameters can be found in [Appendix F](/05-Micro).
 
+  We also had to make sure our selected components and microcontroller would be properly powered through the embedded subsystem. By looking through the data sheets we were able to design power rails for the project, how we'd get our power, and where each component is placed. [Appendix G](/Power_Budget_-_Sheet1_1.pdf) shows the breakdown of this process.
+
 ## Hardware and Software Implementation
 
 ## System Verification 
@@ -71,6 +73,7 @@ Diego Rodriguez
 * [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
 * [Appendix E: Component Selection](/05-Component-Selection(1).pdf)
 * [Appendix F: Microcontroller Selection](/05-Micro)
+* [Appendix G: Power Budget](Power_Budget_-_Sheet1_1.pdf) 
 
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
