@@ -19,12 +19,12 @@ Diego Rodriguez
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
 * [Design Ideation](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
-* [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#final-selected-design)
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
 * [System Verification](https://egr314-team-305.github.io/Team305.github.io/#system-verification)
+* [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
 ## Introduction: Team 204 Semester Project   
@@ -49,12 +49,12 @@ Diego Rodriguez
 ## Final Desin Selection 
 
 ## Block Diagram
+
+[Appendix D](/04-Block-Diagram.pdf)
   
 ## Component and Microcontroller Selection  
   
-* [Example of link text in RAW](/MicroSelect)
-
-* [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
+[Appendix E](/
 
 ## Hardware and Software Implementation
 
@@ -68,3 +68,12 @@ Diego Rodriguez
 * [Appendix A: Team Organization](/01-team-organization.pdf)
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
 * [Appendix C: Design Ideation](/03-design-ideation.pdf)
+* [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
+
+## Website Coding Examples
+* [Example of link text in RAW](/MicroSelect)
+
+* [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
+
+* Image by link
+![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png) 
