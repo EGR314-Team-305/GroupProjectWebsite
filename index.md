@@ -53,7 +53,7 @@ Diego Rodriguez
 
   Once we had a plan for how the subsystems would interact with the main microcontroller, we had to decide on which parts we would utilize. For this process we researched our individual systems and discovered three pieces that would fulfill project parameters. Once this step had been completed, we selected the best of the three options to order, allowing us to finally choose all of our components...Well, most of them. [Appendix E](/05-Component-Selection(1).pdf) will show the completed document for this.
 
-  After choosing all of our subsystem components, we still needed to choose a microcontroller. Since we are not allowed to utilize the in-class PIC device, we had to find a device similar but fit inside of our requirements. This entailed a descriptive search for a proper chip. A full view of our process and parameters can be found in [Appendix F](/05-Micro).
+  After choosing all of our subsystem components, we still needed to choose a microcontroller. Since we are not allowed to utilize the in-class PIC device, we had to find a device similar but fit inside of our requirements. This entailed a descriptive search for a proper chip. A full view of our process and parameters can be found in [Appendix F](/05-Micro.pdf).
 
   We also had to make sure our selected components and microcontroller would be properly powered through the embedded subsystem. By looking through the data sheets we were able to design power rails for the project, how we'd get our power, and where each component is placed. [Appendix G](/Power_Budget_-_Sheet1_1.pdf) shows the breakdown of this process.
 
@@ -75,7 +75,8 @@ With our components selected, we had to use the program Cadence in order to gene
 * [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
 * [Appendix E: Component Selection](/05-Component-Selection(1).pdf)
 * [Appendix F: Microcontroller Selection](/05-Micro)
-* [Appendix G: Power Budget](Power_Budget_-_Sheet1_1.pdf) 
+* [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
+* [Appendix H: Hardware Proposal](/png2pdf.pdf)
 
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
