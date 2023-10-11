@@ -59,6 +59,8 @@ Diego Rodriguez
 
 ## Hardware and Software Implementation
 
+With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This shows how each chip connects to eachother and where everything connects. The full file can be found in [Appendix H](/png2pdf.pdf).
+
 ## System Verification 
 
 ## Presentations 
