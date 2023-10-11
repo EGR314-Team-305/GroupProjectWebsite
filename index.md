@@ -47,13 +47,13 @@ Diego Rodriguez
 
 ## Block Diagram
 
-For this portion of our process, we had to create a chart detailing what subsytems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
+  For this portion of our process, we had to create a chart detailing what subsystems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
   
 ## Component and Microcontroller Selection  
-  
-[Appendix E](/05-Component-Selection(1).pdf)
 
-[Appendix F](/05-Micro)
+  Once we had a plan for how the subsystems would interact with the main microcontroller, we had to decide on which parts we would utilize. For this process we researched our individual systems and discovered three pieces that would fulfill project parameters. Once this step had been completed, we selected the best of the three options to order, allowing us to finally choose all of our components...Well, most of them. [Appendix E](/05-Component-Selection(1).pdf) will show the completed document for this.
+
+  After choosing all of our subsystem components, we still needed to choose a microcontroller. Since we are not allowed to utilize the in-class PIC device, we had to find a device similar but fit inside of our requirements. This entailed a descriptive search for a proper chip. A full view of our process and parameters can be found in [Appendix F](/05-Micro).
 
 ## Hardware and Software Implementation
 
