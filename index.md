@@ -18,8 +18,7 @@ Diego Rodriguez
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
-* [Design Ideation](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
-* [Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#final-selected-design)
+* [Design Ideation and Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
@@ -42,11 +41,9 @@ Diego Rodriguez
   
   A Jamboard is a sheet of notes with every idea, note, ideals, specifications, etc., about a given topic. It is similar to a whiteboard with dozens of post-it notes all across it. Digitally, we wrote down as many notes we could think of or find in the user reviews of similar products. This created a mess for us to sort through. We then organized them by what category they fit into. Project requirements, user wants, user needs, marketing, etc. After this, we rated each note based on how important it is to us as well as the customer, thus producing our main user needs. A full copy of our user needs can be found in [Appendix B](/02-user-needs-and-requirements.pdf)
 
-## Design Ideation
+## Design Ideation and Final Desin Selection 
 
   After we completed our user needs, we brainstormed any ideas we coudl think of that complies with our necessary measures. This landed us with three results. The third result we thought about was an automated door opener. Second was a temperature and ligth controlled fan, which would turn on when it's too hot or lights turn on. Our final design, which is what we chose, is a Home Room Weather Control System. This chosen design would operate window blinds based on external and internal conditions. If it's raining, the humidity sensor will close the blinds through the use of a motor controlled by the system. If it's too hot inside, it will close as well. If the room is cold, then the blinds will be opened, if external conditions meet specified criteria. A full copy of our design ideation can be found in [Appendix C](/03-design-ideation.pdf)
-
-## Final Desin Selection 
 
 ## Block Diagram
 
@@ -56,7 +53,7 @@ Diego Rodriguez
   
 [Appendix E](/05-Component-Selection(1).pdf)
 
-[Appendix F]
+[Appendix F](/05-Micro)
 
 ## Hardware and Software Implementation
 
@@ -73,6 +70,7 @@ Diego Rodriguez
 * [Appendix C: Design Ideation](/03-design-ideation.pdf)
 * [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
 * [Appendix E: Component Selection](/05-Component-Selection(1).pdf)
+* [Appendix F: Microcontroller Selection](/05-Micro)
 
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
