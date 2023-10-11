@@ -77,6 +77,6 @@ Diego Rodriguez
 
 * [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
-* Image by link
+* Image by link example
   
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png) 
