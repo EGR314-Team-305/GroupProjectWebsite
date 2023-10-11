@@ -54,13 +54,16 @@ Diego Rodriguez
   
 ## Component and Microcontroller Selection  
   
-[Appendix E](/
+[Appendix E](/05-Component-Selection(1).pdf)
+
+[Appendix F]
 
 ## Hardware and Software Implementation
 
 ## System Verification 
 
 ## Presentations 
+
 * Checkpoint 1 Youtube Powerpoint Presentation: [https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
 
 
@@ -69,6 +72,7 @@ Diego Rodriguez
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
 * [Appendix C: Design Ideation](/03-design-ideation.pdf)
 * [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
+* [Appendix E: Component Selection](/05-Component-Selection(1).pdf)
 
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
@@ -76,4 +80,5 @@ Diego Rodriguez
 * [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
 * Image by link
+  
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png) 
