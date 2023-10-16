@@ -85,3 +85,6 @@ Current software proposal (flow chart) [here](https://drive.google.com/file/d/1x
 * Image by link example
   
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png) 
+
+![image caption](https://media.discordapp.net/attachments/1143291596109009090/1162829462761640097/image.png?ex=653d5c54&is=652ae754&hm=c84bedc077161d5d0c732b53d448bf261d8bc7b47417286857e3a112bab62bf7&=&width=506&height=473)
+
