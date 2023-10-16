@@ -25,6 +25,10 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
+## Checkpoint 2 report
+* An easy link to our report for checkpoint 2
+* [link here](/Report.pdf)
+
 ## Introduction: Team 204 Semester Project   
   With entering another project based class comes a semester project. For this project, we need to create a custom weather based system that includes multiple sensors and electronical communication. For communication aspects, we intend to use ESP32 two way bluetooth communication that we will be taught in class. This will allow the user to view variable data produced by the final product we intend to create. Additional sensors for this project include motion, light, humidity, air pressure, temperature, and many more. We decided to go with light and humidity, as it fits with the project idea that will be stated below. Finally, we will need a motor and motor controller, functioning based on data given by the rest of the system.
   
