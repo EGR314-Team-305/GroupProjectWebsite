@@ -10,3 +10,4 @@ title: Home
   
   Ensuring that all members of our group complete their share of work to a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, [found here](/01-team-organization.pdf) or on our main page in [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
   
+ ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Member%20Roles%20Image.png?raw=true)
