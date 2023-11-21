@@ -10,7 +10,7 @@ Team 305
 Members:    
 Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
-![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/IMG_6241.jpg?raw=true).
+![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
 
 # Table of Contents
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
