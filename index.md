@@ -36,10 +36,13 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
   
 ## Team Organization
 
- Entering another project based class, our team needs to be a well functioning machine where every aspect works. Resulting in the team Charter, we developed a page of expectations for us to follow. This includes but is not limited to teamwork, communication, quality of work, and much more. Ensuring that all members of our group complete their share of workto a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, found below in [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
+ Our team needs to be organized in such a way that we can effectivly work together and best utilize each of our strengths.  We have defined what each member should be accountable for and how we will work together.  We wish to better ourselves and learn more about the detailed creation of subsystems and circuit boards.
 
-  Our mission statement is that we want to learn about the detailed creation of subsystems and circuit boards. Through the process of creating a home automation system focusing on simplicity and reliability, we can create a system of multiple functioning pieces. Although sometimes complicated, creating this system of subsystems will allow us to learn and demonstrate growth in the field of engineering
+ Entering another project based class, our team needs to be a well functioning machine where every aspect works. Resulting in the team Charter, we developed a page of expectations for us to follow. This includes but is not limited to teamwork, communication, quality of work, and much more. Ensuring that all members of our group complete their share of work to a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, found below in
 
+  Our mission statement is that we want to learn about the detailed creation of subsystems and circuit boards. Through the process of creating a home automation system focusing on simplicity and reliability, we can create a system of multiple functioning pieces. Although sometimes complicated, creating this system of subsystems will allow us to learn and demonstrate growth in the field of engineering.
+  
+ [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
 * Greater details can be found on our [Team Org](/Team-Organization.md) page.
 
 ## User Needs, Benchmarking, and Requirements  
