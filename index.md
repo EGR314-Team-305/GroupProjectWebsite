@@ -35,9 +35,12 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
   Conisidering the part requirements listed above, we decided to make a Home Room Weather Control System. This device will open and close window blinds depending on external factors, such as humidity, light and temperature. The motor will control the blinds, and at what speed they move.
   
 ## Team Organization
-  Entering another project based class, our team needs to be a well functioning machine where every aspect works. Resulting in the team Charter, we developed a page of expectations for us to follow. This includes but is not limited to teamwork, communication, quality of work, and much more. Ensuring that all members of our group complete their share of workto a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, found below in [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
+
+ Entering another project based class, our team needs to be a well functioning machine where every aspect works. Resulting in the team Charter, we developed a page of expectations for us to follow. This includes but is not limited to teamwork, communication, quality of work, and much more. Ensuring that all members of our group complete their share of workto a standard sufficient with our level and expectations, all members of our team have agreed to and will follow the examples mentioned in the original document, found below in [Appendix A.](https://egr314-team-305.github.io/Team305.github.io/#appendix) 
 
   Our mission statement is that we want to learn about the detailed creation of subsystems and circuit boards. Through the process of creating a home automation system focusing on simplicity and reliability, we can create a system of multiple functioning pieces. Although sometimes complicated, creating this system of subsystems will allow us to learn and demonstrate growth in the field of engineering
+
+* Greater details can be found on our [Team Org](/Team-Organization.md) page.
 
 ## User Needs, Benchmarking, and Requirements  
   When deciding upon which ideals are most important to the customer, we utilized a process similar to reverse engineering. We first collected multiple items similar to our desired project idea, and researched information on them. This allowed us to discover many uailities about the products, such as price, vendor, and many positive and negative reviews about each one. This allowed us to move to our next process: Jamboards.
