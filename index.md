@@ -94,7 +94,7 @@ Current software proposal (flow chart) [here](https://drive.google.com/file/d/1x
 
 * [Test subpage 2](/https://github.com/EGR314-Team-305/Team305.github.io/blob/828286c5e27d153d246937b19cc2a26446c57a93/T-O)  leads to 404 error
 
-* [Test subpage 3](/T-O.md)
+* [Test subpage 3](/T-O.md) actually works. This one links to a subpage. Make sure it includes .md at the end
 
 * [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
