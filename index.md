@@ -10,7 +10,6 @@ Team 305
 Members:    
 Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
-![image caption](https://cdn.discordapp.com/attachments/1009964701716844606/1163538580187136111/IMG_6241.jpg?ex=653ff0bf&is=652d7bbf&hm=bff8b24d3f48bc42a003443cb856aad500942bb103a3cb89fb0d23952df4d4bb&)
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/IMG_6241.jpg?raw=true).
 
 # Table of Contents
