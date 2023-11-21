@@ -39,7 +39,6 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
  
  In order to acomplish this, we devised roles, tasks and responsibilities for each of us to fulfill during the course of the semester. Greater details of this team formation process can be found on our [Team Organization](/Team-Organization.md) page.
 
- ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Member%20Roles%20Image.png?raw=true)
 
 
 ## User Needs, Benchmarking, and Requirements  
