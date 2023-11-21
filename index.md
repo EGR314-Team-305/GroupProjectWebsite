@@ -90,7 +90,9 @@ Current software proposal (flow chart) [here](https://drive.google.com/file/d/1x
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
 
-* [Test subpage](/T-O)
+* [Test subpage](/T-O) links to a download
+
+* [Test subpage 2](/https://github.com/EGR314-Team-305/Team305.github.io/blob/828286c5e27d153d246937b19cc2a26446c57a93/T-O)
 
 * [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
