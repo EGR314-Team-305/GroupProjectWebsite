@@ -39,6 +39,8 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
  
  In order to acomplish this, we devised roles, tasks and responsibilities for each of us to fulfill during the course of the semester. Greater details of this team formation process can be found on our [Team Organization](/Team-Organization.md) page.
 
+ ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Member%20Roles%20Image.png?raw=true)
+
 
 ## User Needs, Benchmarking, and Requirements  
   When deciding upon which ideals are most important to the customer, we utilized a process similar to reverse engineering. We first collected multiple items similar to our desired project idea, and researched information on them. This allowed us to discover many uailities about the products, such as price, vendor, and many positive and negative reviews about each one. This allowed us to move to our next process: Jamboards.
