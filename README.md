@@ -10,7 +10,7 @@ Team 305
 Members:    
 Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
-![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
+![image caption](/media/Team%20Group%20Photo.jpg)
 
 # Table of Contents
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
@@ -62,7 +62,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   For this portion of our process, we had to create a chart detailing what subsystems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
 
-<img src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true" width=60% height=60%>
+<img src="/media/Block-Diagram.drawio.png" width=60% height=60%>
   
 ## Component and Microcontroller Selection  
 
