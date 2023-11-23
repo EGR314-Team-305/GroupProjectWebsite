@@ -63,7 +63,7 @@ CAD model produced and supplied by Deigo Rodriguez.
   For this portion of our process, we had to create a chart detailing what subsystems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true)
-<img src="[https://github.com/favicon.ico](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true)" width="48">
+<img src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true" width="48">
   
 ## Component and Microcontroller Selection  
 
