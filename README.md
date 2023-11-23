@@ -52,7 +52,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
   After we completed our user needs, we brainstormed any ideas we could think of that complies with our necessary measures. This landed us with three results. The third result we thought about was an automated door opener. Second was a temperature and ligth controlled fan, which would turn on when it's too hot or lights turn on. Our final design, which is what we chose, is a Home Room Weather Control System. This chosen design would operate window blinds based on external and internal conditions. If it's raining, the humidity sensor will close the blinds through the use of a motor controlled by the system. If it's too hot inside, it will close as well. If the room is cold, then the blinds will be opened, if external conditions meet specified criteria. A full copy of our design ideation can be found in [Appendix C](/03-design-ideation.pdf)
   
-  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/CAD%20model%20image.png?raw=true)
+  ![image caption](/media/CAD%20model%20image.png)
   
 CAD model produced and supplied by Deigo Rodriguez.
 
@@ -62,11 +62,11 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   For this portion of our process, we had to create a chart detailing what subsystems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
 
-<img src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true" width=60%>
+<img src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Block-Diagram.drawio.png?raw=true" width=60% height=60%>
   
 ## Component and Microcontroller Selection  
 
-  Once we had a plan for how the subsystems would interact with the main microcontroller, we had to decide on which parts we would utilize. For this process we researched our individual systems and discovered three pieces that would fulfill project parameters. Once this step had been completed, we selected the best of the three options to order, allowing us to finally choose all of our components...Well, most of them. [Appendix E](/Comp.pdf) will show the completed document for this. (if the Appendix link is broken you can find the fixed document at [this fixed link](https://docs.google.com/document/d/16Z2PJg_yhHUm5j5tgeRhERfs_CeCkvM5h7oL5msZcgY/edit?usp=sharing | width 100)
+  Once we had a plan for how the subsystems would interact with the main microcontroller, we had to decide on which parts we would utilize. For this process we researched our individual systems and discovered three pieces that would fulfill project parameters. Once this step had been completed, we selected the best of the three options to order, allowing us to finally choose all of our components...Well, most of them. [Appendix E](/Comp.pdf) will show the completed document for this. (if the Appendix link is broken you can find the fixed document at [this fixed link](https://docs.google.com/document/d/16Z2PJg_yhHUm5j5tgeRhERfs_CeCkvM5h7oL5msZcgY/edit?usp=sharing)
 
   After choosing all of our subsystem components, we still needed to choose a microcontroller. Since we are not allowed to utilize the in-class PIC device, we had to find a device similar but fit inside of our requirements. This entailed a descriptive search for a proper chip. A full view of our process and parameters can be found in [Appendix F](/05-Micro.pdf).
 
