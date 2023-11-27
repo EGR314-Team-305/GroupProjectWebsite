@@ -73,7 +73,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   For the software aspects of our project, we ended up using a program called MPLab X. this software is excellent for coding microcontollers sice we can set aspects of every part we need. Ranging from complex EUSART configs to setting individual pins for input/output data, this program allowed us to complete the code for our project easily and efficiently.
 
-  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/MPLABX-MCC-EUSART1.png)
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/7b7f56bb8a7f1424fea514dc0460cb21d6accbff/media/MPLABX-MCC-EUSART1.png)
   ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/MPLABX-MCC-Pin%20Manager.png)
 
   The software aspects of this project go very deep, and need a vast amount of explanation. To consolidate this info, please visit our [Hardware and Software](/HSI.md) page.
