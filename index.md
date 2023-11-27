@@ -68,7 +68,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This process was difficult due to our inexperience with the software, as well as some issues with our initial part selections. This resulting schematic for our PCB shows how each chip connects to eachother as well as the schematic for each part. 
 
-  ![image caption](/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
 
 
   For the software aspects of our project, we ended up using a program called MPLab X. this software is excellent for coding microcontollers sice we can set aspects of every part we need. Ranging from complex EUSART configs to setting individual pins for input/output data, this program allowed us to complete the code for our project easily and efficiently.
