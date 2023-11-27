@@ -39,8 +39,6 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
 ## User Needs, Benchmarking, and Requirements  
   When deciding upon which ideals are most important to the customer, we utilized a process similar to reverse engineering. We first collected multiple items similar to our desired project idea, and researched information on them. This allowed us to discover many quailities about the products, such as price, vendor, and many positive and negative reviews about each one. Creating Jamboards after this allowed us to discover similarities about each item that we didn't think about. It was a very interesting [process](/UNBR.md) which took us longer than expected.
-  
-  [Appendix B](/02-user-needs-and-requirements.pdf)
 
 ## Design Ideation and Final Design Selection 
 
