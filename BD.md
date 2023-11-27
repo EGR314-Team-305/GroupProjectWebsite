@@ -16,4 +16,5 @@ title: Home
 
   In the above block diagram we listed every part of our project, retroactively labeling each block with port information, part numbers, communication types and additional information necessary for us to understand each segment. We also added greater detail about subjects like power, voltage regulation and control buttons. This allows us to visualize the porject from a base view that most people could read and understand. Consolidating our unique subsystem information like this also allows us to view eachothers subsystems and get knowledge of them without doing the research each member had to do initially.
   
-* [Appendix D](/media/Block-Diagram.drawio.png) 
+* [Appendix D](/media/Block-Diagram.drawio.png)
+  
