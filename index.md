@@ -66,11 +66,17 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 ## Hardware and Software Implementation
 
-With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This shows how each chip connects to eachother and where everything connects. The full file can be found in [Appendix H](/png2pdf.pdf).
+  With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This process was difficult due to our inexperience with the software, as well as some issues with our initial part selections. This resulting schematic for our PCB shows how each chip connects to eachother as well as the schematic for each part. 
 
-Current software proposal (flow chart) [here](https://drive.google.com/file/d/1xj8rlV1nQ_Dy-Pl9dtr7v5zDKM77mbQ3/view?usp=sharing)
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png)
 
-* [Hardware and Software Implementation](/HSI.md).
+
+  For the software aspects of our project, we ended up using a program called MPLab X. this software is excellent for coding microcontollers sice we can set aspects of every part we need. Ranging from complex EUSART configs to setting individual pins for input/output data, this program allowed us to complete the code for our project easily and efficiently.
+
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/MPLABX-MCC-EUSART1.png)
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/MPLABX-MCC-Pin%20Manager.png)
+
+  The software aspects of this project go very deep, and need a vast amount of explanation. To consolidate this info, please visit our [Hardware and Software](/HSI.md) page.
 
 ## System Verification 
 
