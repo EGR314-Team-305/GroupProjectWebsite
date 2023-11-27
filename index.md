@@ -16,7 +16,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
-* [Design Ideation and Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
+* [Design Ideation and Final Selected Design]([https://egr314-team-305.github.io/Team305.github.io/#design-ideation](https://egr314-team-305.github.io/Team305.github.io/#design-ideation-and-final-design-selection))
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
