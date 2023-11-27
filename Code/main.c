@@ -67,10 +67,10 @@ uint8_t tempSign = 0; // 0 = Positive ; 1 = Negative
     
 int counter = 0;
     
-uint32_t lightValueRAWLux = 1;
-uint32_t lightValueLux = 1;
-uint32_t lightValueWhiteRAWLux = 2;
-uint32_t lightValueWhiteLux = 2;
+uint16_t lightValueRAWLux = 1;
+float lightValueLux = 1;
+uint16_t lightValueWhiteRAWLux = 2;
+float lightValueWhiteLux = 2;
     
 int MotorDir = 0;
 int MotorOn = 0; // 0 = Off ; 1 = On                                              
@@ -104,11 +104,12 @@ void TurnMotorRight()
   
 }
 
-uint32_t ConvertLux (uint32_t val)
+float ConvertLux (uint16_t val)
 {
-    float gain_factor = 0.0576; //gain=1/4 and int time=400ms, max lux=3775 lux
-    uint32_t valf = roundf(val * gain_factor);
-    uint32_t valcorr = (6.0135E-13*valf*valf*valf*valf)-(9.392E-9*valf*valf*valf)+(8.1488E-5*valf*valf)+(1.0023E0*valf);
+    float gain_factor =  0.4608; //gain=1/8 and int time=100ms, max lux =  30 199 lux
+    float valf = roundf(val * gain_factor);
+    //lux = (((6.0135e-13 * lux - 9.3924e-9) * lux + 8.1488e-5) * lux + 1.0023) * lux;
+    float valcorr = (((6.0135E-13 * valf -9.392E-9) * (valf + 8.1488E-5) * valf + 1.0023E0) * valf);
     return valcorr;
 }
 
@@ -156,8 +157,8 @@ void EUSART2_ISR_callback(void){
 void Motor_Controller_Toggle(void)
 {
     printf("Mode: Togg Slct Ctrl\r\n");
-    // Change direction if temp greater than +28 C
-    if((tempSign == 0) && (tempC > 28)  &&  (MotorOn == 0))
+    // Change direction if temp greater than +27 C
+    if((tempSign == 0) && (tempC > 27)  &&  (MotorOn == 0))
     {
 
         if (MotorDir == 0) 
@@ -176,7 +177,7 @@ void Motor_Controller_Toggle(void)
     else
     {
         //dont spin
-        if(tempC <= 28)
+        if(tempC <= 27)
         {
             MotorOn = 0;
         }
@@ -253,7 +254,7 @@ int main(void)
     __delay_ms(5000); 
     
 
-    I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x00, 0x98);
+    I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x00, 0x10);
     __delay_ms(100);
     I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x03, 0x00);
     __delay_ms(100);
@@ -271,8 +272,8 @@ int main(void)
         lightValueLux = ConvertLux(lightValueRAWLux);RA1=0;
         lightValueWhiteLux = ConvertLux(lightValueWhiteRAWLux);RA3=0;
         
-        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueRAWLux);
-        printf(">> White Light Value #%d = %d Lux\r\n", counter, lightValueWhiteRAWLux);
+        printf(">> Light Value #%d = %f Lux\r\n", ++counter, lightValueLux);
+        printf(">> White Light Value #%d = %f Lux\r\n", counter, lightValueWhiteLux);
         
        
         //temp sensor
@@ -294,6 +295,7 @@ int main(void)
         //motor controller
         Motor_Controller_AutoTemp();
         //Motor_Controller_Toggle();
+        //Motor_Controller_AutoLight();
         
         
 //        if (tempC > 30)
