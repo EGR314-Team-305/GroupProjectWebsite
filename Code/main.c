@@ -155,7 +155,7 @@ void EUSART2_ISR_callback(void){
 
 void Motor_Controller_Toggle(void)
 {
-    printf("Mode: Togg Slct Ctrl\n");
+    //printf("Mode: Togg Slct Ctrl\n");
     // Change direction if temp greater than +28 C
     if((tempSign == 0) && (tempC > 28)  &&  (MotorOn == 0))
     {
@@ -185,7 +185,7 @@ void Motor_Controller_Toggle(void)
 
 void Motor_Controller_AutoTemp(void)
 {
-    printf("Mode: Auto Temp Ctrl\n");
+    //printf("Mode: Auto Temp Ctrl\n");
 // Rotate Clockwise Once if temp greater than +28 C
     if((tempSign == 0) && (tempC > 28)  &&  (MotorOn == 0))
     {
@@ -249,8 +249,8 @@ int main(void)
         lightValueLux = ConvertLux(lightValueRAWLux);RA1=0;
         lightValueWhiteLux = ConvertLux(lightValueWhiteRAWLux);RA3=0;
         
-        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueRAWLux);
-        //printf("> White Light Value #%d = %d Lux\r\n", counter, lightValueWhiteRAWLux);
+        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueLux);
+        printf(">> White Light Value #%d = %d Lux\r\n", counter, lightValueWhiteRAWLux);
         
        
         //temp sensor
@@ -260,7 +260,7 @@ int main(void)
         getTempC (tempValue, &tempC, &tempSign);
         if (tempSign == 1) // negative
         {
-            printf("> Temperature #%d = -%d C.\r\n", counter, tempC);
+            printf(">> Temperature #%d = -%d C.\r\n", counter, tempC);
         }
         else // positive
         {
