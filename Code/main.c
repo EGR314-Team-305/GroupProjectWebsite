@@ -234,16 +234,13 @@ int main(void)
     __delay_ms(5000); 
     
 
-    //I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x00, 0x98);
-   // __delay_ms(500);
-   // I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x03, 0x00);
-    //__delay_ms(500);
+    I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x00, 0x98);
+    __delay_ms(100);
+    I2C1_Write2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x03, 0x00);
+    __delay_ms(100);
     
     while (1)
     {
-        
-        
-        
         
         //Light Sensor
         
