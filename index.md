@@ -1,4 +1,4 @@
-<span style="background-color:hex(313639);">
+<span style="background-color:rgba(200,200,200,1);">
 ---
 title: Home 
 ---
