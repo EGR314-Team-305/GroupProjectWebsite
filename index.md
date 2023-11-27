@@ -72,6 +72,8 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   We also had to make sure our selected components and microcontroller would be properly powered through the embedded subsystem. By looking through the data sheets we were able to design power rails for the project, how we'd get our power, and where each component is placed. [Appendix G](/Power_Budget_-_Sheet1_1.pdf) shows the breakdown of this process.
 
+* [Component and Microcontroller Selection](/CMS.md).
+
 ## Hardware and Software Implementation
 
 With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This shows how each chip connects to eachother and where everything connects. The full file can be found in [Appendix H](/png2pdf.pdf).
