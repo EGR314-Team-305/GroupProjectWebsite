@@ -60,9 +60,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 ## Block Diagram
 
-  For this portion of our process, we had to create a chart detailing what subsystems we have, who would be acountable for them, and a general look to what's going on. This included the 3 main subsystem components and the bluetooth communication. A complete version can be found in [Appendix D](/04-Block-Diagram.pdf).
-
-* [Block Diagram](/BD.md).
+  With figuring out what project we were going to work on came the process of brainstorming the workflow of the circuit we are creating. Figuring out what we would be using and listing how it would connect with eachother was the primary focus of this portion of the project. Aiming to create a full [Block Diagram](/BD.md) would allow us to visually represent the circuit board in a clear and easy to understand form. 
   
 ## Component and Microcontroller Selection  
 
@@ -95,7 +93,7 @@ Current software proposal (flow chart) [here](https://drive.google.com/file/d/1x
 * [Appendix A: Team Organization](/01-team-organization.pdf)
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
 * [Appendix C: Design Ideation](/03-design-ideation.pdf)
-* [Appendix D: Block Diagram](/04-Block-Diagram.pdf)
+* [Appendix D: Block Diagram](/media/Block-Diagram.drawio.png)
 * [Appendix E: Component Selection](/Comp)
 * [Appendix F: Microcontroller Selection](/05-Micro)
 * [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
