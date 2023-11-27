@@ -67,10 +67,10 @@ uint8_t tempSign = 0; // 0 = Positive ; 1 = Negative
     
 int counter = 0;
     
-uint16_t lightValueRAWLux = 1;
-uint16_t lightValueLux = 1;
-uint16_t lightValueWhiteRAWLux = 2;
-uint16_t lightValueWhiteLux = 2;
+uint32_t lightValueRAWLux = 1;
+uint32_t lightValueLux = 1;
+uint32_t lightValueWhiteRAWLux = 2;
+uint32_t lightValueWhiteLux = 2;
     
 int MotorDir = 0;
 int MotorOn = 0; // 0 = Off ; 1 = On                                              
@@ -104,11 +104,11 @@ void TurnMotorRight()
   
 }
 
-uint16_t ConvertLux (uint16_t val)
+uint32_t ConvertLux (uint32_t val)
 {
     float gain_factor = 0.0576; //gain=1/4 and int time=400ms, max lux=3775 lux
-    uint16_t valf = roundf(val * gain_factor);
-    uint16_t valcorr = (6.0135E-13*valf*valf*valf*valf)-(9.392E-9*valf*valf*valf)+(8.1488E-5*valf*valf)+(1.0023E0*valf);
+    uint32_t valf = roundf(val * gain_factor);
+    uint32_t valcorr = (6.0135E-13*valf*valf*valf*valf)-(9.392E-9*valf*valf*valf)+(8.1488E-5*valf*valf)+(1.0023E0*valf);
     return valcorr;
 }
 
@@ -155,7 +155,7 @@ void EUSART2_ISR_callback(void){
 
 void Motor_Controller_Toggle(void)
 {
-    //printf("Mode: Togg Slct Ctrl\n");
+    printf("Mode: Togg Slct Ctrl\r\n");
     // Change direction if temp greater than +28 C
     if((tempSign == 0) && (tempC > 28)  &&  (MotorOn == 0))
     {
@@ -185,8 +185,8 @@ void Motor_Controller_Toggle(void)
 
 void Motor_Controller_AutoTemp(void)
 {
-    //printf("Mode: Auto Temp Ctrl\n");
-// Rotate Clockwise Once if temp greater than +28 C
+    printf("Mode: Auto Temp Ctrl\r\n");
+    // Rotate Clockwise Once if temp greater than +28 C
     if((tempSign == 0) && (tempC > 28)  &&  (MotorOn == 0))
     {
 
@@ -196,7 +196,29 @@ void Motor_Controller_AutoTemp(void)
     }
     if((tempSign == 0)  &&  (tempC <= 28)  &&  (MotorOn == 1))
     {
-// Rotate Counter Clockwise Once if temp less than or equal to than +28 C
+    // Rotate Counter Clockwise Once if temp is less than or equal to +28 C
+        
+        TurnMotorRight();
+        MotorOn = 0;
+    }
+}
+
+void Motor_Controller_AutoLight(void)
+{
+    printf("Mode: Auto Light Ctrl\r\n");
+    //close blinds
+    // Rotate Clockwise Once if light is brighter than 50000 lux 
+    if((lightValueRAWLux > 50000)  &&  (MotorOn == 0))
+    {
+
+        TurnMotorLeft();
+        MotorOn = 1;
+        
+    }
+    if((lightValueRAWLux <= 50000)  &&  (MotorOn == 1))
+    {
+    //Open blinds
+    // Rotate Counter Clockwise Once if light is less than or equal to 50000 lux 
         
         TurnMotorRight();
         MotorOn = 0;
@@ -244,12 +266,12 @@ int main(void)
         //I2C1_Read2ByteRegister(i2c1_address_t address, uint8_t reg)
         lightValueRAWLux = I2C1_Read2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x04);
         
-        //lightValueWhiteRAWLux = I2C1_Read2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x05);
+        lightValueWhiteRAWLux = I2C1_Read2ByteRegister(LIGHT_SENSOR_ADDRESS, 0x05);
         
         lightValueLux = ConvertLux(lightValueRAWLux);RA1=0;
         lightValueWhiteLux = ConvertLux(lightValueWhiteRAWLux);RA3=0;
         
-        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueLux);
+        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueRAWLux);
         printf(">> White Light Value #%d = %d Lux\r\n", counter, lightValueWhiteRAWLux);
         
        
