@@ -13,8 +13,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
 
 # Table of Contents
-* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
-* [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
+* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)                    * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
 * [Design Ideation and Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#design-ideation)
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
