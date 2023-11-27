@@ -1,3 +1,4 @@
+<body style="background-color:darkgrey;">
 ---
 title: Home 
 ---
