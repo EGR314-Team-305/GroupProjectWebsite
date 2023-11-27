@@ -65,9 +65,6 @@ uint8_t tempValue = 0;
 uint8_t tempC = 0;
 uint8_t tempSign = 0; // 0 = Positive ; 1 = Negative
     
-uint8_t msg;
-//int srand(10);
-#define RAND_MAX (0x336)
 int counter = 0;
     
 uint16_t lightValueRAWLux = 1;
@@ -252,7 +249,7 @@ int main(void)
         lightValueLux = ConvertLux(lightValueRAWLux);RA1=0;
         lightValueWhiteLux = ConvertLux(lightValueWhiteRAWLux);RA3=0;
         
-        printf("> Light Value #%d = %d Lux\n", ++counter, lightValueRAWLux);
+        printf(">> Light Value #%d = %d Lux\r\n", ++counter, lightValueRAWLux);
         //printf("> White Light Value #%d = %d Lux\r\n", counter, lightValueWhiteRAWLux);
         
        
@@ -263,11 +260,11 @@ int main(void)
         getTempC (tempValue, &tempC, &tempSign);
         if (tempSign == 1) // negative
         {
-            printf("> Temperature #%d = -%d C.\n", counter, tempC);
+            printf("> Temperature #%d = -%d C.\r\n", counter, tempC);
         }
         else // positive
         {
-            printf(">> Temperature #%d = %d C.\n", counter, tempC);
+            printf(">> Temperature #%d = %d C.\r\n", counter, tempC);
         }
         
         
