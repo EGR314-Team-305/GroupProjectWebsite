@@ -84,6 +84,8 @@ Current software proposal (flow chart) [here](https://drive.google.com/file/d/1x
 
 ## System Verification 
 
+* [System Verification](/SV.md).
+
 ## Presentations 
 
 * Checkpoint 1 Youtube Powerpoint Presentation: [youtube](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
