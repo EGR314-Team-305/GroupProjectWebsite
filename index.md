@@ -87,6 +87,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 * Checkpoint 1 Youtube Powerpoint Presentation: [youtube](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
 
 
+
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
