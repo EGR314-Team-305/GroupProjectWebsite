@@ -124,3 +124,5 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 {% include youtube.html id="JLMbpiywVxQ" %}
 
+[(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+
