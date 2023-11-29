@@ -80,7 +80,9 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 ## System Verification 
 
-* [System Verification](/SV.md).
+  One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. Greater details can be found on our [System Verification](/SV.md) page.
+
+  * Insert video here {% include youtube.html id="" %}
 
 ## Presentations 
 
@@ -101,11 +103,9 @@ CAD model produced and supplied by Deigo Rodriguez.
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
 
-* [Test subpage](/T-O) links to a download
+* [Test subpage beta](/T-O) links to a download
 
-* [Test subpage 2](/https://github.com/EGR314-Team-305/Team305.github.io/blob/828286c5e27d153d246937b19cc2a26446c57a93/T-O)  leads to 404 error
-
-* [Test subpage 3](/T-O.md) actually works. This one links to a subpage. Make sure it includes .md at the end
+* [Test subpage](/T-O.md) works. This one links to a subpage. Make sure it includes .md at the end
 
 * [Example of external link embed in RAW](https://doadsheets/d/1ZWJujIUSddGSwfPPaxeSsj4ZDpHQYlIZ/edit#gid=2120733341)
 
