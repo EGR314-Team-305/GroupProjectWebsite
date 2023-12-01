@@ -1,5 +1,5 @@
 -----------------------------------------------
-title: Component and Microcontroller Selection
+Component and Microcontroller Selection
 -----------------------------------------------
  
 # Beginning Approach
@@ -10,6 +10,15 @@ We began our search with components that we have worked with in class since we a
 Once our possible choices were listed out we then chose the best option prioritizing ease of use, such as a package size manageable enough to hand solder as well as accesibility to external recources.
 
 # Temperature Sensor
-The TC74 temperature sensor is a serial sensor manufactured by Microchip. It can measure temperatures between -40C to 125C and outputs Data using I2C. The voltage supply range for this sensor is a minimum of 2.7V to 5.5V. We were given this sensor in class and there was information on it provided which made the selection of this component an easy decision. This sensor is also a very manageable size which is important since it will be surface mounted onto the PCB.
+The TC74A4 temperature sensor is a serial sensor manufactured by Microchip. It can measure temperatures between -40C to 125C and outputs data using I2C. The voltage supply range for this sensor is a minimum of 2.7V to 5.5V. We were given this sensor in class and there was information on it provided which made the selection of this component an easy decision. This sensor is also a very manageable size which is important since it will be surface mounted onto the PCB.
+
+# Motor Driver
+We ultimately decided to go with the DRV8847SPWR motor driver manufactured by Texas Instruments. While deciding on this component took a bit longer and extra steps than the other components, the main reason that made us stick with it is purely because it uses I2C to communicate. All of our components are I2C, so to stick with the elegance of connections that comes with I2C we made our final decision to go with it. 
+
+# Motor
+When it came to choosing the motor itself, we instantly went with a 12V DC Reversible Gearhead Motor. On top of it being a motor that is very accessible to us through ASU, we have worked with these motors in the past and proved to be very reiable and easy to work with. Another major feature from this motor is its notable torque, which we knew would be mor ethan enough for our project that would require to consitently rotate blinds. 
+
+# Light Sensor 
+The light sensor we chose was the VEML7700-TT manufactured by Vishay Semiconductor Opto Division. It communicates through I2C, same as all of our components. The main factors that made us go with this sensor were its nice price, availability, and sensitivity. The sensitvity of this sensor is greatly customizeable and precise, which is essential for getting our system to work efficiently.
 
 
