@@ -78,13 +78,11 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   The software aspects of this project go very deep, and need a vast amount of explanation. To consolidate this info, please visit our [Hardware and Software](/HSI.md) page.
 
-## System Verification 
+## System Verification and Final Presentation
 
   One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. A full rundown of our debugging and checkoff process can be found in our [System Verification](/SV.md) page.
 
 {% include youtube.html id="lCwTpInNI6Q" %}
-
-## Final Presentation 
 
 Also, in order to finalize our project, we created a full tabletop model which we rigged our working system to. This demonstrates that we not only finished the main course requirements, but went the extra mile to provide a quality and visually pleasing final product.
 
