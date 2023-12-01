@@ -13,7 +13,7 @@ Although not much, it was a start, and after some further debugging we were able
 {% include youtube.html id="53aBljYX6Nw" %}
 
 After several hours of further debugging, we were able to establish that the wireless communication and temperature sensors were working. 
-{% include youtube.html id="ZHouU2MR2r4" %}
+* insert video here
 
 Next, we were able to utilize the same technique developed to correct the temperature sensor on the light sensor. This allowe us to test our motor, since it was dependant on the other sensors.
 {% inculde youtube.html id="FDRjx8eOcD0" %}
