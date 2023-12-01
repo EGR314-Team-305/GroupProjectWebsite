@@ -1,5 +1,5 @@
 ---
-: Component and Microcontroller Selection
+Title: Component and Microcontroller Selection
 ---
  
 # Beginning Approach
