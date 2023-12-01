@@ -72,4 +72,4 @@ System Module
 * Watchdog Timer Disabled
 * Everything else Default
 
-[Main code](/https://github.com/EGR314-Team-305/Team305.github.io/blob/main/Code/main.c)
+[Main code](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/Code/mainc.md)
