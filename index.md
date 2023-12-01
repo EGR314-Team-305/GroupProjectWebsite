@@ -84,14 +84,11 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 {% include youtube.html id="lCwTpInNI6Q" %}
 
+## Final Presentation 
+
 Also, in order to finalize our project, we created a full tabletop model which we rigged our working system to. This demonstrates that we not only finished the main course requirements, but went the extra mile to provide a quality and visually pleasing final product.
 
   ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Framework%203.jpg?raw=true)
-
-## Presentations 
-
-* Checkpoint 1 Youtube Powerpoint Presentation: [youtube](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
-
 
 
 ## Appendix
@@ -103,6 +100,8 @@ Also, in order to finalize our project, we created a full tabletop model which w
 * [Appendix F: Microcontroller Selection](/05-Micro)
 * [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
 * [Appendix H: Hardware Proposal](/png2pdf.pdf)
+* Checkpoint 1 Youtube Powerpoint Presentation: [youtube](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
+
 
 ## Website Coding Examples
 * [Example of link text in RAW](/MicroSelect)
