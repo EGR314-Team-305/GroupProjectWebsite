@@ -3,6 +3,7 @@ Component and Microcontroller Selection
 ---
  
 # Beginning Approach
+
 We read the project requirements very closely to ensure that we were picking components that are allowed to use for our design. While doing research on components, we focused on parts that incorporated detailed datasheets as well as immediate accessibility. With past experience of struggling to obtain certain parts, we wanted to be certain that we had immediate access to start testing and debugging our current concept selection.
 
 We began our search with components that we have worked with in class since we are familiar with them. We first listed out the pros and cons of the parts we used in previous assignments then we would look for similar components that would offer solutions to the cons we had listed. For subsystems that required a part not used in a previous assignment we would choose a few components that each had different strengths and weaknesses.
@@ -33,3 +34,5 @@ The light sensor we chose was the VEML7700-TT manufactured by Vishay Semiconduct
 ![Microcontroller](/media/28-pin-soic__73519.jpg)
 
 Our microcontroller that we went with for our project is the PIC18F27J53-I/SO manufactured by Microchip. The microcontroller selection was a very important decision to make which is why we took many factors into consideration. This microcontroller is very similar to the microcontroller we had been using in class, which is very nice since we practically had a bit of experience with it and would make the set-up much easier. It also didn't have too many pins and was a decent size which would help with the actual organization and soldering of the board. It resulted in being quite simple to solder to our PCB and ensure a solid connection, which would've been much more difficult had we chosen a smaller-sized PIC or one with more pins. It met all the requirements for our project and we did not struggle at all with the set-up, so it is safe to say it was a solid choice.
+
+ After we had our components selected, we needed to start implementing them into our main system. Each memeber took their respective components to test and get working. We compiled all of our data in [our original document](/Comp.pdf) to better view all available info on our parts.
