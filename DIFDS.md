@@ -9,4 +9,4 @@ title: Home
   
   ![image caption](https://media.discordapp.net/attachments/1143291596109009090/1162829343786029066/image.png?ex=653d5c37&is=652ae737&hm=eabc8d34cc643f13a9d049c900424b8f452648014a2796a559ec32e0f126325a&=&width=374&height=473)
 
-CAD model produced and supplied by Deigo Rodriguez.
+CAD model produced and supplied by Diego Rodriguez.
