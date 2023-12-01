@@ -82,7 +82,7 @@ CAD model produced and supplied by Deigo Rodriguez.
 
   One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. Greater details can be found on our [System Verification](/SV.md) page.
 
-  * Insert video here {% include youtube.html id="" %}
+{% include youtube.html id="lCwTpInNI6Q" %}
 
 ## Presentations 
 
