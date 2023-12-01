@@ -80,9 +80,13 @@ CAD model produced and supplied by Deigo Rodriguez.
 
 ## System Verification 
 
-  One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. Greater details can be found on our [System Verification](/SV.md) page.
+  One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. A full rundown of our debugging and checkoff process can be found in our [System Verification](/SV.md) page.
 
 {% include youtube.html id="lCwTpInNI6Q" %}
+
+Also, in order to finalize our project, we created a full tabletop model which we rigged our working system to. This demonstrates that we not only finished the main course requirements, but went the extra mile to provide a quality and visually pleasing final product.
+
+  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Framework%203.jpg?raw=true)
 
 ## Presentations 
 
