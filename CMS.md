@@ -1,6 +1,6 @@
------------------------------------------------
+---
 Component and Microcontroller Selection
------------------------------------------------
+---
  
 # Beginning Approach
 We read the project requirements very closely to ensure that we were picking components that are allowed to use for our design. While doing research on components, we focused on parts that incorporated detailed datasheets as well as immediate accessibility. With past experience of struggling to obtain certain parts, we wanted to be certain that we had immediate access to start testing and debugging our current concept selection.
