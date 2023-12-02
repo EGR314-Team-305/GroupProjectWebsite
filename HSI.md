@@ -14,6 +14,12 @@ The whole design is based on the idea of having a sensor for two of the factors 
 
 Our schematic consists of our Voltage Regulator that takes 12V and makes sure our whole circuit runs on 3.3V, Microcontroller that controls all of our other components, ESP32 that allows us to communicate with our microcontroller via internet, Temperature sensor, Light Sensor, and Motor Driver that controls the motor. This shchematic allows us to connect all of our components and have them communicate to make our Home automation device function as it should. All of the components such as the sensors and the motor driver are I2C, which means that they all get connected to the same pins on our microcontroller. This makes our PCB significantly more simple and minimalist. 
 
+# Improvements for the Future
+
+We came upon multiple challenges when it came to hardware. The main challenge being the header pads on our PCB. Header pads on default are very small and fragile, which we found out just how fragile while working on our project. Despite being soldered solidly the pads for multiple of our headers got torn off by simply being touched. This caused a lot of difficulty and forced us to solder external wires through many parts on our board as well as a lot of hot glue to ensure more things wouldn't tear off. This could've easily been avoided by designing custom pads for the headers which would have more surface area to ensure they can't be torn as easily as they did.
+
+Another change that we wished we would have made is adding more headers. We quickly realized that we were running out of connections for certain things as more things were getting damaged or torn off. Adding more headers would've helped a lot since it would give us a "Plan B" from when things got damaged. Having a backup plan is awlays a good idea when designing a PCB and we definitely will next project even if we were able to get away with it this time. 
+
 # Software Implementation
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Software%20Proposal.png?raw=true)
