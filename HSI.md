@@ -7,8 +7,8 @@ title: Home
 
 # Software Implementation
 
+![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/04-Block-Diagram.pdf?raw=true)
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Software%20Proposal.png?raw=true)
-![image caption](?raw=true)
 
 # What we learned/ would change
 Thoroughly reading the data sheet for each component is probably the best advice when it comes to this project. Some of the components had rather long data sheets with more information than we wish they did, so to get around this we took a shortcut and went straight to the coding section. That was the biggest mistake. Data sheets give all the information you need and we learned that importance the hard way. It took a very long time to figure out the coding and what certain things did. The amount of time we lost trying to figure out the coding registers and order of everything by only reading the coding section was a lot more than if we had just read the whole datasheet. 
