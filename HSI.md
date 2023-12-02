@@ -8,6 +8,12 @@ title: Home
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
 
+# Funcionality
+
+The whole design is based on the idea of having a sensor for two of the factors that determine how hot a room is, which is temperature, of course, as well as light. These sensors would be able to read the temperature and light in the room and would be able to control the blinds depending on how high or how low those values are. 
+
+Our schematic consists of our Voltage Regulator that takes 12V and makes sure our whole circuit runs on 3.3V, Microcontroller that controls all of our other components, ESP32 that allows us to communicate with our microcontroller via internet, Temperature sensor, Light Sensor, and Motor Driver that controls the motor. This shchematic allows us to connect all of our components and have them communicate to make our Home automation device function as it should. All of the components such as the sensors and the motor driver are I2C, which means that they all get connected to the same pins on our microcontroller. This makes our PCB significantly more simple and minimalist. 
+
 # Software Implementation
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Software%20Proposal.png?raw=true)
