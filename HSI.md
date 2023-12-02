@@ -7,7 +7,6 @@ title: Home
 
 # Software Implementation
 
-![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/04-Block-Diagram.pdf?raw=true)
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Software%20Proposal.png?raw=true)
 
 # What we learned/ would change
