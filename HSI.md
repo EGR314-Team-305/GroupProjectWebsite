@@ -7,9 +7,11 @@ title: Home
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
 
 Schematic
+
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/BottomViewPCB.png?raw=true?raw=true)
 
 PCB Bottom View
+
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/TopViewPCB.png?raw=true?raw=true)
 
 PCB Top View
