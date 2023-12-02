@@ -5,7 +5,7 @@ title: Home
 # Hardware Implementation
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
-# Funcionality
+# Functionality
 
 The whole design is based on the idea of having a sensor for two of the factors that determine how hot a room is, which is temperature, of course, as well as light. These sensors would be able to read the temperature and light in the room and would be able to control the blinds depending on how high or how low those values are. 
 
