@@ -1,3 +1,4 @@
+```C
 /**
   Generated Main Source File
 
@@ -310,4 +311,5 @@ int main(void)
             
         __delay_ms(400); // .8 second delay
     }
-} 
+}
+```
