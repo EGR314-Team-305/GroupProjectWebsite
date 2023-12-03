@@ -8,13 +8,14 @@ title: Home
 
 Schematic View
 
+![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/TopViewPCB.png?raw=true?raw=true)
+
+PCB Top View
+
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/BottomViewPCB.png?raw=true?raw=true)
 
 PCB Bottom View
 
-![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/TopViewPCB.png?raw=true?raw=true)
-
-PCB Top View
 
 # Functionality
 
