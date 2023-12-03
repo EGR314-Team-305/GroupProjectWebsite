@@ -48,7 +48,8 @@ When it came to actual coding and organization, we were able to do a decent job.
    * After we had started testing, we realized that certain values were not being shown in our MQTT server. The reason for that is ESP32 communication doesn't like it when you send too many things to print. We then had to reduce all of our Printfs and only keep the important values that needed to be read.
 5. Two different codes for different sensors
    * When it came to actual application of our project, we realized that it would be very unrealistic and would make testing much more difficult to have one code that would use specific conditions from both our sensors to get the motor to react. We decided to make two codes, one that would get the motor to close the blinds(spin the motor) with the temperature of the room and one that would do the same but based on the brightness. This made testing much easier and will work better in real life.
-  
+
+# MPLAB X IDE Setup  
      
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/MPLABX-MCC-EUSART1.png?raw=true)
 
