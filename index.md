@@ -126,4 +126,4 @@ The eigth lesson is testing with whatever is easiest. When it came to trying to 
 * [Appendix F: Microcontroller Selection](/05-Micro.pdf)
 * [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
 * [Appendix H: Hardware Proposal](/Cadence_Schematic.pdf)
-* [Appendix I: Checkpoint 1 Youtube Powerpoint Presentation](/https://youtu.be/rEpy6BaRJAM)
+* [Appendix I: Checkpoint 1 Youtube Powerpoint Presentation](https://youtu.be/rEpy6BaRJAM)
