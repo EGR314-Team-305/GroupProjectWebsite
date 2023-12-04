@@ -435,6 +435,5 @@ int main(void)
 }
 ```
 
-[Main code](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/Code/mainc.md)
 
 
