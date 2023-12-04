@@ -88,11 +88,11 @@ Also, in order to finalize our project, we created a full tabletop model which w
 
 ## Recommendations for future students
 
-- test
-- again
-- thrid time
-- 4th
-- 5th
+* test
+* again
+* thrid time
+* 4th
+* 5th
 
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
