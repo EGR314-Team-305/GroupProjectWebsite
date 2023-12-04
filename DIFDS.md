@@ -2,7 +2,7 @@
 title: Home 
 ---
  
-# Design Ideation and Final Design Selection
+<h1>Design Ideation and Final Design Selection</h1>
 
 After we completed our user needs, we brainstormed any ideas we could think of that complied with our necessary measures. This landed us with three results. The first idea was a home automation system that would open and close blinds depending on the temperature and brightness in a room. The Second was a temperature and light-controlled fan, which would turn on when it was too hot or lights turned on. The third result we thought of was an automated door opener that senses when someone is near and will open the door. After much consideration, the Home Room Weather Control System made the most sense to us. This idea would be best since it needs the exact number of components and sensors to make it work for the requirements of this project, unlike the other ideas. 
   
@@ -16,7 +16,7 @@ We went through a brainstorming phase to develop the product we are now working 
 
 <hr>
 
-# Automated Blinds
+<h2>Automated Blinds</h2>
 
   <img align="left" width="33%" src="media/Automated_Blinds.png">
   <hr>
