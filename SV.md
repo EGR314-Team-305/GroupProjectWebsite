@@ -4,7 +4,7 @@ title: Home
  
 # System Verification
 
-One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team. This process involved wiring every system together and rigorously testing every aspect.
+One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's subsystem works, and that we worked cohesively as a team. This process involved wiring every system together and rigorously testing every aspect.
 
 For our first attempt, we were able to get it powered up with base subsystems working. This included our voltage regulator and our microcontroller.
 {% include youtube.html id="7ClaZi1Gy6I" %}
