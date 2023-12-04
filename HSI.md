@@ -117,7 +117,7 @@ System Module
 * Watchdog Timer Disabled
 * Everything else Default
 
-PIC
+# PIC Code
 ```C
 /**
   Generated Main Source File
@@ -434,7 +434,7 @@ int main(void)
 }
 ```
 
-ESP32
+# ESP32 Code
 ```python
 from mqtt_async import MQTTClient, config
 import uasyncio as asyncio
