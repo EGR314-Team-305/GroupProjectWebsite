@@ -20,10 +20,9 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#component-and-microcontroller-selection)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
-* [System Verification](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
-* [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
+* [System Verification and Final Presentation](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
+* [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#recommendations-for-future-students)
 * [Lessons Learned](https://egr314-team-305.github.io/Team305.github.io/#lessons-learned)
-* [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
 ## Introduction: Team 305 Semester Project   
@@ -88,7 +87,7 @@ Also, in order to finalize our project, we created a full tabletop model which w
   ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Framework%203.jpg?raw=true)
 
 
-## Recommendations for future students
+## Recommendations for Future Students
 
 * test
 * again
@@ -123,8 +122,8 @@ The eigth lesson is testing with whatever is easiest. When it came to trying to 
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
 * [Appendix C: Design Ideation](/03-design-ideation.pdf)
 * [Appendix D: Block Diagram](/media/Block-Diagram.drawio.png)
-* [Appendix E: Component Selection](/Comp)
-* [Appendix F: Microcontroller Selection](/05-Micro)
+* [Appendix E: Component Selection](/Comp.pdf)
+* [Appendix F: Microcontroller Selection](/05-Micro.pdf)
 * [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
-* [Appendix H: Hardware Proposal](/png2pdf.pdf)
-* Checkpoint 1 Youtube Powerpoint Presentation: [youtube](/https://youtu.be/rEpy6BaRJAM?si=7G1AM7mKLT2xhBXv)
+* [Appendix H: Hardware Proposal](/Cadence_Schematic.pdf)
+* [Appendix I: Checkpoint 1 Youtube Powerpoint Presentation](/https://youtu.be/rEpy6BaRJAM)
