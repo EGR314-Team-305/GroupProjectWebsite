@@ -31,22 +31,10 @@ Home automation is a vast subject, so we devised three ideas to fit the topic. T
 
 # Automated Fan
   <img align="right" width="33%" src="media/Automated_Fan.png">
-  
+  <hr>
 The second system used sensors to turn on a fan/motor. This design allows the user to set a fan speed to best match their preference with presets they can choose or a faster/slower button for fine-tuning adjustment. The sensor array will allow the fan to tell if the temp or humidity is high and automatically turn on to create a draft that helps increase the room experience. The Wi-Fi control allows the user to control the fan remotely without needing the user to adjust the settings on this "smart fan."
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
+
 
 # Automated Door
   <img align="left" width="33%" src="media/Automated_Door.png">
