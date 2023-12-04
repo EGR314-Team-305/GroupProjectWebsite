@@ -14,8 +14,6 @@ This project would operate by reading the internal conditions of a room to contr
 </p>
   
 <br>
-<br>
-<br>
 
 <p> This chosen project allowed us to satisfy the project requirements. Next was a case of designing our subsystems and figuring out what parts we would use. This entailed creating a block diagram of how our subsystems would interact with each other and what components we would need to choose.
 
