@@ -21,8 +21,8 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#component-and-microcontroller-selection)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
 * [System Verification and Final Presentation](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
-* [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#recommendations-for-future-students)
 * [Lessons Learned](https://egr314-team-305.github.io/Team305.github.io/#lessons-learned)
+* [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#recommendations-for-future-students)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
 ## Introduction: Team 305 Semester Project   
@@ -76,6 +76,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
   The software aspects of this project go very deep, and need a vast amount of explanation. To consolidate this info, please visit our [Hardware and Software](/HSI.md) page.
 
+
 ## System Verification and Final Presentation
 
   One of the last steps for our project is to make sure that each subsystem we created individually can be connected together. This ensures that everyone's project works, and that we worked cohesively as a team.  A final checkoff using the team PCB can be shown in the video below. A full rundown of our debugging and checkoff process can be found in our [System Verification](/SV.md) page.
@@ -85,15 +86,6 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 Also, in order to finalize our project, we created a full tabletop model which we rigged our working system to. This demonstrates that we not only finished the main course requirements, but went the extra mile to provide a quality and visually pleasing final product.
 
   ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Framework%203.jpg?raw=true)
-
-
-## Recommendations for Future Students
-
-* test
-* again
-* thrid time
-* 4th
-* 5th
 
 
 ## Lessons Learned
@@ -114,8 +106,20 @@ The sixth lesson is to use the resources available to you for help. There are ma
 
 The seventh lesson is to make clear objectives for each assignment with your teammates. The team should split each task amongst eachother to make finishing it more efficient. Making sure everyone knows what they are working on will ensure there is always something being done and is key to success.
 
-The eigth lesson is testing with whatever is easiest. When it came to trying to make our first sensors work, it was a bit difficult to actually test and see what it was uotputting with the pic for our main board since we didn't have MQTT communication at the time and couldnt read a serial monitor. For that reason, we first tested and debugged on the PIC (Nano) that was given to us for the class since it could be connected via usb to a computer and have the values read by the serial monitor. With this, we were able to have functioning code off the bat for our actual pcb with only minor setup changes needed.
+The eigth lesson is testing with whatever is easiest. When it came to trying to make our first sensors work, it was a bit difficult to actually test and see what it was outputting with the PIC for our main board since we didn't have MQTT communication at the time and couldnt read a serial monitor. For that reason, we first tested and debugged on the PIC (Nano) that was given to us for the class since it could be connected via usb to a computer and have the values read by the serial monitor. With this, we were able to have functioning code at an early stage for our actual PCB with only minor setup changes needed.
 
+The ninth lesson is give your PCB as much space as you can. Unless your specific project needs to be insanely small, it is a great idea to space out all the components on the PCB as much as you can while staying within the size limit for the class. When soldering and troubleshooting the hardware, implementing this idea will go a long way when it comes to soldering the small components and having all sorts of wires or headers sticking out and obstructing the way. We found out how having so many things close together can give such a hard time while troubleshooting and increases the chances of something shorting.
+
+The tenth lesson is similar to the previous lesson but was important to us enough to make it its own section, and that is make custom pads for headers and other components. We had a couple sensors that needed to go out via headers and wires, but we found out very quickly that premade header pads are very weak due to their small surface area. This minor thing almost gave us a heart attack as we saw important pads being torn off our PCB. If we had just made a custom pad that was slightly larger, we wouldnt have had that issue and would've not only saved us from being stressed out but also time in how long it took us to solve that issue. This experience is engrained into our heads and we will most likely be using larger pads whenever we can throughout our future.
+
+
+## Recommendations for Future Students
+
+1. It is very important to learn basic 'C' and 'Python' programming languages, particularly 'C' since pretty much all the coding for the class and project is in C. Without this skill, things can get a bit overwhelming and difficult.
+2. Watching cadence tutorial videos is a must because Cadence is a decently large and complicated software with a steep learning curb. The earlier you start practicing the better. Don't try to figure it out right before the due dates unless you are trying to feel overwhelmed.
+3. It is just as important to actually get cadence installed, at least one week in advance (the earlier the better). It is a big file and can take a couple of hours to install. We have also found it doesn't install so easily on certain computers, so trying to install from an early stage will allow you to figure out any difficulties you are having with the installation.
+4. A big "must" is asking for help as soon as it is needed. There are many new things and topics in this class that can be quite tricky to understand and asking for help is the fastest and easiest way to get on track. Others are most likely having the same issues as you so don't feel like its just you.
+5. Planning everything ahead is probably the most important on this list. Planning ahead is vital since things move very quickly in this class and lack of a plan will lead to a lot of both major and minor oversights. An example of this is figuring out the PCB tolerance requirements for the lab. Not thinking or knowing something like this ahead of time can caus you to have a PCB that will get rejected by the lab and set you back a day or two. Or another example could be in designing the PCB where you need to plan ahead and fully understand what components you are using and how they will interact with eachother and in actual use. Don't simply design the minimum requirements and then later realize you forgot to add headers to program the Microcontroller or a pad for the the power supply. In general, planning ahead helps avoid mistakes and have an idea of what has to be done at all times.
 
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
