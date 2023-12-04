@@ -11,7 +11,7 @@ We read the project requirements very closely to ensure that we were picking com
 
 We began our search with components that we have worked with in class since we are familiar with them. We first listed out the pros and cons of the parts we used in previous assignments then we would look for similar components that would offer solutions to the cons we had listed. For subsystems that required a part not used in a previous assignment we would choose a few components that each had different strengths and weaknesses.
 
-Once our possible choices were listed out we then chose the best option prioritizing ease of use, such as a package size manageable enough to hand solder as well as accesibility to external recources.
+Once our possible choices were listed out we then chose the best option prioritizing ease of use, such as a package size manageable enough to hand solder as well as accesibility to external resources.
 
 ## Temperature Sensor
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/TempSensor.jpg?raw=true)
