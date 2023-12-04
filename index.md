@@ -128,6 +128,6 @@ The tenth lesson is similar to the previous lesson but was important to us enoug
 * [Appendix D: Block Diagram](/media/Block-Diagram.drawio.png)
 * [Appendix E: Component Selection](/Comp.pdf)
 * [Appendix F: Microcontroller Selection](/05-Micro.pdf)
-* [Appendix G: Power Budget](/Power_Budget_-_Sheet1_1.pdf)
+* [Appendix G: Power Budget](/Power_Budget_v2.pdf)
 * [Appendix H: Hardware Proposal](/Cadence_Schematic.pdf)
 * [Appendix I: Checkpoint 1 Youtube Powerpoint Presentation](https://youtu.be/rEpy6BaRJAM)
