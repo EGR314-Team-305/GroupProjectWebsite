@@ -1,8 +1,8 @@
 ---
 title: Home 
 ---
-<body style="background-color:aquamarine;">
-# Home Room Weather Control System
+<body style="background-color:maroon;">
+<h1> Home Room Weather Control System </h1>
 
 EGR314 Fall 2023  
 Professor Nichols  
