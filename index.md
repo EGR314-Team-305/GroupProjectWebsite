@@ -13,12 +13,12 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
 
 # Table of Contents
-* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-204-semester-project)
+* [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction:-team-305-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
 * [Design Ideation and Final Selected Design](https://egr314-team-305.github.io/Team305.github.io/#design-ideation-and-final-design-selection)
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
-* [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
+* [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#Component-and-Microcontroller-Selection)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
 * [System Verification](https://egr314-team-305.github.io/Team305.github.io/#System-Verification-and-Final-Presentation)
 * [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
