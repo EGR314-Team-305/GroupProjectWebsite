@@ -1,7 +1,8 @@
 ---
 title: Home 
 ---
- 
+<div>
+
 <h1>Design Ideation and Final Design Selection</h1>
 
 After we completed our user needs, we brainstormed any ideas we could think of that complied with our necessary measures. This landed us with three results. The first idea was a home automation system that would open and close blinds depending on the temperature and brightness in a room. The Second was a temperature and light-controlled fan, which would turn on when it was too hot or lights turned on. The third result we thought of was an automated door opener that senses when someone is near and will open the door. After much consideration, the Home Room Weather Control System made the most sense to us. This idea would be best since it needs the exact number of components and sensors to make it work for the requirements of this project, unlike the other ideas. 
@@ -16,6 +17,10 @@ We went through a brainstorming phase to develop the product we are now working 
 
 <hr>
 
+</div>
+
+<div>
+
 <h2>Automated Blinds</h2>
 
   <img align="left" width="40%" src="media/Automated_Blinds.png">
@@ -24,7 +29,11 @@ Home automation is a vast subject, so we devised three ideas to fit the topic. T
 
   <hr>
   <br>
-  
+
+</div>
+
+<div>
+
 <h2>Automated Fan</h2>
   <img align="right" width="40%" src="media/Automated_Fan.png">
 
@@ -32,7 +41,11 @@ The second system used sensors to turn on a fan/motor. This design allows the us
 
   <hr>
   <br>
-  
+
+</div>
+
+<div>
+
 <h2>Automated Door</h2>
   <img align="left" width="40%" src="media/Automated_Door.png">
 
@@ -40,5 +53,7 @@ Lastly, the third idea was an automatic door using sensors to open or close. The
 
   <hr>
   <br>
-  
+
+</div>
+
 After making mock CAD models and discussing all the ideas, we unanimously agreed that the automated blind opening system would be the best for our project because it is the most useful and efficient in everyday life. We then discussed the details to decide which sensors would make the most sense and our experience. After a brief discussion, we decided on this system functioning on the subsystems of a motor/motor controller, a light sensor, and a digital thermal sensor. 
