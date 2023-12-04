@@ -1,7 +1,7 @@
 ---
 title: Home 
 ---
-<div>
+<section>
 
 <h1>Design Ideation and Final Design Selection</h1>
 
@@ -17,9 +17,9 @@ We went through a brainstorming phase to develop the product we are now working 
 
 <hr>
 
-</div>
+</section>
 
-<div>
+<section>
 
 <h2>Automated Blinds</h2>
 
@@ -30,9 +30,9 @@ Home automation is a vast subject, so we devised three ideas to fit the topic. T
   <hr>
   <br>
 
-</div>
+</section>
 
-<div>
+<section>
 
 <h2>Automated Fan</h2>
   <img align="right" width="40%" src="media/Automated_Fan.png">
@@ -42,9 +42,9 @@ The second system used sensors to turn on a fan/motor. This design allows the us
   <hr>
   <br>
 
-</div>
+</section>
 
-<div>
+<section>
 
 <h2>Automated Door</h2>
   <img align="left" width="40%" src="media/Automated_Door.png">
@@ -54,6 +54,6 @@ Lastly, the third idea was an automatic door using sensors to open or close. The
   <hr>
   <br>
 
-</div>
+</section>
 
 After making mock CAD models and discussing all the ideas, we unanimously agreed that the automated blind opening system would be the best for our project because it is the most useful and efficient in everyday life. We then discussed the details to decide which sensors would make the most sense and our experience. After a brief discussion, we decided on this system functioning on the subsystems of a motor/motor controller, a light sensor, and a digital thermal sensor. 
