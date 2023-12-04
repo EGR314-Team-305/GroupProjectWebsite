@@ -20,7 +20,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
-* [System Verification](https://egr314-team-305.github.io/Team305.github.io/#system-verification)
+* [System Verification](https://egr314-team-305.github.io/Team305.github.io/#System-Verification-and-Final-Presentation)
 * [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
