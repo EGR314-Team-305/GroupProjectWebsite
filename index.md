@@ -20,7 +20,9 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Block Diagram](https://egr314-team-305.github.io/Team305.github.io/#block-diagram)
 * [Component and Microcontroller Selection](https://egr314-team-305.github.io/Team305.github.io/#component-and-microcontroller-selection)
 * [Hardware and Software Implemetation](https://egr314-team-305.github.io/Team305.github.io/#hardware-and-software-implementation)
-* [System Verification](https://egr314-team-305.github.io/Team305.github.io/#System-Verification-and-Final-Presentation)
+* [System Verification](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
+* [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#system-verification-and-final-presentation)
+* [Lessons Learned](https://egr314-team-305.github.io/Team305.github.io/#lessons-learned)
 * [Presentations](https://egr314-team-305.github.io/Team305.github.io/#presentations)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
@@ -93,6 +95,12 @@ Also, in order to finalize our project, we created a full tabletop model which w
 * thrid time
 * 4th
 * 5th
+
+
+## Lessons Learned
+
+words go here. lots of them.
+
 
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
