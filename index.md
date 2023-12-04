@@ -86,6 +86,14 @@ Also, in order to finalize our project, we created a full tabletop model which w
   ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Framework%203.jpg?raw=true)
 
 
+## Recommendations for future students
+
+- test
+- again
+- thrid time
+- 4th
+- 5th
+
 ## Appendix
 * [Appendix A: Team Organization](/01-team-organization.pdf)
 * [Appendix B: User Needs, Benchmarking, and Requirements](/02-user-needs-and-requirements.pdf)
