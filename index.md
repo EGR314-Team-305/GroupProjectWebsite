@@ -25,9 +25,9 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
 
 ## Introduction: Team 305 Semester Project   
-  With entering another project based class comes a semester project. For this project, we need to create a custom weather based system that includes multiple sensors and electronical communication. For communication aspects, we intend to use ESP32 two way bluetooth communication that we will be taught in class. This will allow the user to view variable data produced by the final product we intend to create. Additional sensors for this project include motion, light, humidity, air pressure, temperature, and many more. We decided to go with light and humidity, as it fits with the project idea that will be stated below. Finally, we will need a motor and motor controller, functioning based on data given by the rest of the system.
+  With entering another project based class comes a semester project. For this project, we need to create a custom weather based system that includes multiple sensors and electronical communication. For communication aspects, we intend to use ESP32 two way WIFI communication that we will be taught in class. This will allow the user to view variable data produced by the final product we intend to create. Additional sensors for this project include motion, light, humidity, air pressure, temperature, and many more. We decided to go with light and temperature, as it fits with the project idea that will be stated below. Finally, we will need a motor and motor controller, functioning based on data given by the rest of the system.
   
-  Conisidering the part requirements listed above, we decided to make a Home Room Weather Control System. This device will open and close window blinds depending on external factors, such as humidity, light and temperature. The motor will control the blinds, and at what speed they move.
+  Conisidering the part requirements listed above, we decided to make a Home Room Weather Control System. This device will open and close window blinds depending on internal/external factors, light and temperature. The motor will control the blinds, and at what speed they move.
   
 ## Team Organization
 
