@@ -8,7 +8,7 @@ After we completed our user needs, we brainstormed any ideas we could think of t
   
 This project would operate by reading the internal conditions of a room to control the blinds. If it is too bright, the light sensor will close the blinds using a motor controlled by the system. If it is too hot inside, it will close as well, and if the room is cold, then the blinds will open. The wireless control will allow the user to have complete remote control of the blind setting for their convenience. The blinds will have presets and a close/open increment button for simplicity. The blind settings will also have an automatic mode that can be set so the blinds will open and close to certain levels depending on the time of day and/or amount of light. The blinds and window will contain all the parts, requiring only a one-time setup process. Also, the unit will plug into standard US AC wall power, allowing it to be used anywhere an outlet is nearby. In summary, it is designed to control blinds intuitively.
 
-  <img align="center" width="33%" src="(https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/CAD%20model%20image.png?raw=true)">
+  <img align="center" width="33%" src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/CAD%20model%20image.png?raw=true">
    
   This chosen project allowed us to satisfy the project requirements. Next was a case of designing our subsystems and figuring out what parts we would use. This entailed creating a block diagram of how our subsystems would interact with each other and what components we would need to choose.
 
