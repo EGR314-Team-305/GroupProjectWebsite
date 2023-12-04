@@ -12,7 +12,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
 
-# Table of Contents
+<h1> Table of Contents
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-305-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
 * [User Needs, Benchmarking and Reuirements](https://egr314-team-305.github.io/Team305.github.io/#user-needs-benchmarking-and-requirements)
@@ -24,7 +24,7 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 * [Lessons Learned](https://egr314-team-305.github.io/Team305.github.io/#lessons-learned)
 * [Recommendations for Future Students](https://egr314-team-305.github.io/Team305.github.io/#recommendations-for-future-students)
 * [Appendix](https://egr314-team-305.github.io/Team305.github.io/#appendix)
-
+</h2>
 ## Introduction: Team 305 Semester Project   
   With entering another project based class comes a semester project. For this project, we need to create a custom weather based system that includes multiple sensors and electronical communication. For communication aspects, we intend to use ESP32 two way WIFI communication that we will be taught in class. This will allow the user to view variable data produced by the final product we intend to create. Additional sensors for this project include motion, light, humidity, air pressure, temperature, and many more. We decided to go with light and temperature, as it fits with the project idea that will be stated below. Finally, we will need a motor and motor controller, functioning based on data given by the rest of the system.
   
