@@ -5,7 +5,6 @@ title: Home
 # Hardware Implementation
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
-
 Schematic View
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/TopViewPCB.png?raw=true?raw=true)
@@ -16,39 +15,38 @@ PCB Top View
 
 PCB Bottom View
 
-
 # Functionality
 
-The whole design is based on the idea of having a sensor for two of the factors that determine how hot a room is, which is temperature, of course, as well as light. These sensors would be able to read the temperature and light in the room and would be able to control the blinds depending on how high or how low those values are. 
+The whole design is based on the idea of having a sensor for two of the factors that determine how hot a room is, which are temperature, of course, as well as light. These sensors would be able to read the temperature and light in the room and would be able to control the blinds depending on how high or how low those values are. 
 
-Our schematic consists of our Voltage Regulator that takes 12V and makes sure our whole circuit runs on 3.3V, Microcontroller that controls all of our other components, ESP32 that allows us to communicate with our microcontroller via internet, Temperature sensor, Light Sensor, and Motor Driver that controls the motor. This shchematic allows us to connect all of our components and have them communicate to make our Home automation device function as it should. All of the components such as the sensors and the motor driver are I2C, which means that they all get connected to the same pins on our microcontroller. This makes our PCB significantly more simple and minimalist. 
+Our schematic consists of our Voltage Regulator that takes 12V and makes sure our whole circuit runs on 3.3V, Microcontroller that controls all of our other components, ESP32 that allows us to communicate with our Microcontroller via the internet, Temperature sensor, Light Sensor, and Motor Driver that controls the motor. This schematic will enable us to connect all of our components and have them communicate to make our Home automation device function as it should. The components, such as the sensors and the motor driver, are I2C, meaning they all connect to the same pins on our Microcontroller. This makes our PCB significantly more simple and minimalist. 
 
 # Improvements for the Future
 
-We came upon multiple challenges when it came to hardware. The main challenge being the header pads on our PCB. Header pads on default are very small and fragile, which we found out just how fragile while working on our project. Despite being soldered solidly, the pads for multiple of our headers got torn off by simply being touched. This caused a lot of difficulty and forced us to solder external wires through many parts on our board as well as a lot of hot glue to ensure more things wouldn't tear off. This could've easily been avoided by designing custom pads for the headers which would have more surface area to ensure they can't be torn as easily as they did.
+We came upon multiple challenges when it came to hardware. The main challenge is the header pads on our PCB. Header pads, by default, are tiny and fragile, and we found out just how fragile they are while working on our project. Despite being soldered solidly, the pads for multiple headers got torn off by being touched. This caused many difficulties and forced us to solder external wires through many parts on our board and much hot glue to ensure more things would not tear off. This could have easily been avoided by designing custom pads for the headers with more surface area to ensure they could not be torn as quickly as they did.
 
-Another change that we wished we would have made is adding more headers. We quickly realized that we were running out of connections for certain things as more things were getting damaged or torn off. Adding more headers would've helped a lot since it would give us a "Plan B" from when things got damaged. Having a backup plan is always a good idea when designing a PCB and we definitely will next project despite having gotten away with it this time. 
+Another change that we would have made is adding more headers. We quickly realized we were running out of connections for certain things as more were damaged or torn off. Adding more headers would have helped since it would give us a "Plan B" from when things got damaged. Having a backup plan is always a good idea when designing a PCB, and we definitely will do it for our next project despite having gotten away with it this time. 
 
 # Software Implementation
 
 ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Software%20Proposal.png?raw=true)
 
 # What we learned/ would change
-Thoroughly reading the data sheet for each component is probably the best advice when it comes to this project. Some of the components had rather long data sheets with more information than we wish they did, so to get around this we took a shortcut and went straight to the coding section. That was the biggest mistake. Data sheets give all the information you need and we learned that importance the hard way. It took a very long time to figure out the coding and what certain things did. The amount of time we lost trying to figure out the coding registers and order of everything by only reading the coding section was a lot more than if we had just read the whole datasheet. 
+Reading the datasheet for each component is the best advice regarding this project. Some of the components had rather long data sheets with more information than we wished they had, so to get around this, we took a shortcut and went straight to the coding section. That was the biggest mistake. Datasheets give all the information needed, and we learned that importance the hard way. It took a long time to figure out the coding and what specific things did. The time we lost trying to figure out the coding registers and order of everything by only reading the coding section was much more than if we had just read the whole datasheet. 
 
-When it came to actual coding and organization, we were able to do a decent job. Everything worked well in the software aspect first try, which was a very nice surprise. The way we were able to do that was by planning ahead. We began our code by declaring all the registers from our components, which would initialize and enable them to communicate with our microcontrollers. After that, we made functions for each of our commponents since each had its own set of equations or unique way of sending out data that required a specific conversion or order of operations which could be made through the use of functions. These first two steps required an in depth search and analyzation of the data sheet to complete succesfully. I attribute our success in making our code work first try from having not started the code until we understood all our individual components and the setup each would need. It truly helped us plan ahead and from the beginning start on the right track. We then made sure to initialize anything that needed initialization at the beginning of our main code. The main loop was very simple where it was mostly I2C reads and writes and calling our functions that we had made at the beginning. The rest was using Printf to be able to use our ESP32 to MQTT communiication print out the data from our sensors.
+Regarding actual coding and organization, we could do a decent job. Everything worked well in the software aspect on the first try, which was a lovely surprise. The way we were able to do that was by planning. We began our code by declaring all the registers from our components, which would initialize and enable them to communicate with our microcontrollers. After that, we made functions for each of our components since each had its own set of equations or unique way of sending out data that required a specific conversion or order of operations that could be made through functions. These first two steps required an in-depth search and analysis of the data sheet to complete successfully. We attribute our success to doing our code work on the first try, to start the code once we understood all our components and the setup each would need. It truly helped us plan and, from the beginning, start on the right track. We then ensured that we initialized anything needed at the beginning of our main code. The main loop was straightforward; mostly, I2C reads, writes, and calls the functions we had made at the beginning. The rest used Printf to use our ESP32 to MQTT communication to print out the data from our sensors.
 
 # 5 Biggest Changes
 1. Organizing the registers for our components
-   * This change helped us mostly in readabilty and ability to quickly differenciate the registers.
-2. Commenting every function and variable
-   * Since the coding was done over a long period of time we often forgot why we wrote things the way we did towards the beginning, so we started commenting thoroughly
+   * This change helped us mostly in readability and ability to differentiate the registers quickly.
+2. Commenting on every function and variable
+   * Since the coding was done over a long period, we often forgot why we wrote things the way we did towards the beginning, so we started commenting thoroughly
 3. Using delays generously
-   * We found out very quickly once we started running the code that things took some time to read or write, which would make them work a bit inconsistently. We were able to imporve this and ensure every value got read correctly by adding multiple delays throughout all our code.
+   * We found out very quickly once we started running the code that things took some time to read or write, which would make them work a bit inconsistently. We were able to improve this and ensure every value got read correctly by adding multiple delays throughout all of our code.
 4. Minimizing Printf
-   * After we had started testing, we realized that certain values were not being shown in our MQTT server. The reason for that is ESP32 communication doesn't like it when you send too many things to print. We then had to reduce all of our Printfs and only keep the important values that needed to be read.
+   * After we had started testing, we realized that specific values were not being shown in our MQTT server. ESP32 communication likes it when you send fewer things to print. We then had to reduce all of our Prints and only keep the essential values that needed to be read.
 5. Two different codes for different sensors
-   * When it came to actual application of our project, we realized that it would be very unrealistic and would make testing much more difficult to have one code that would use specific conditions from both our sensors to get the motor to react. We decided to make two codes, one that would get the motor to close the blinds(spin the motor) with the temperature of the room and one that would do the same but based on the brightness. This made testing much easier and will work better in real life.
+   * When it came to the actual application of our project, we realized that it would be very unrealistic and would make testing much more difficult to have one code that would use specific conditions from both our sensors to get the motor to react. We decided to make two codes, one that would get the motor to close the blinds(spin the motor) with the temperature of the room and one that would do the same but based on the brightness. This made testing much more accessible and will work better in real life.
 
 # MPLAB X IDE Setup  
      
