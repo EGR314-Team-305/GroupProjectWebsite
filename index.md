@@ -99,7 +99,23 @@ Also, in order to finalize our project, we created a full tabletop model which w
 
 ## Lessons Learned
 
-words go here. lots of them.
+After reflecting on the semester, we noticed that there were a lot of things that we wish we could have done differently while working on this project. Some of these lessons were learned from the previous iteration of this course that were then implemented into this semester in order to develop a successful product within the given time restraints. This section lists 10 of the most important lessons learned by the team over the course of this semester and the previous semester.
+
+The first Lesson was to keep up with the deadlines. The deadlines are not just days to submit the assignments by but also guidelines to what you should have completed if you want to have the project ready in time. Even when a deadline is pushed back, it is important to try and get that done as soon as you can to get back on track.
+
+The second Lesson is order your parts and components as soon as possible. Not having your components will set you back a lot since not having components won't allow you to do any testing. The sooner you have them, the easier it will be identify problems and to fix them. Ordering multiple of each component is important as well since it is very likely you might damage one or two, and also because you will be making more than one pcb/ board.
+
+The third lesson is having good teammates. Make sure to pick teammates that you get along with. This is important since you will be spending a lot of time with your teammates working on the project so something as basic as good chemistry goes a long way. Also make sure that they have a decent work ethic and great communication skills.
+
+The fourth lesson is optimizing your work time. This applies in every aspect within this class whether its working on inidividual assignments or working on the team project. An example of this would be like when we had to do the ESP32 Communication to MQTT communication, as we were doing that assignment we were also implememting that very same code to our Team Project code. Doing simple tandem things like this go a long way since time in this course is an extemely valuable and delicate resource.
+
+The fifth lesson is double checking your schematic. It is a big issue if you print your team PCB and as you're soldering all the components you notice an issue. In most cases you probably won't be able to simply print another one. PCBs take time, so to prevent your team from having a panic attack towards the end of the semester, make sure everything looks good and doesn't have simple mistakes.
+
+The sixth lesson is to use the resources available to you for help. There are many great resources available to help you succeed in this class whether its the proffesor, the TAs, the ASU tutorials website, or even classmates. The ASU tutorials website was particularly helpful when learning how to use Cadence and programming certain components. 
+
+The seventh lesson is to make clear objectives for each assignment with your teammates. The team should split each task amongst eachother to make finishing it more efficient. Making sure everyone knows what they are working on will ensure there is always something being done and is key to success.
+
+The eigth lesson is testing with whatever is easiest. When it came to trying to make our first sensors work, it was a bit difficult to actually test and see what it was uotputting with the pic for our main board since we didn't have MQTT communication at the time and couldnt read a serial monitor. For that reason, we first tested and debugged on the PIC (Nano) that was given to us for the class since it could be connected via usb to a computer and have the values read by the serial monitor. With this, we were able to have functioning code off the bat for our actual pcb with only minor setup changes needed.
 
 
 ## Appendix
