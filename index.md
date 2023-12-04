@@ -13,8 +13,6 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
   <img align="center" width="100%" src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true">    
 </p>
 
-![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/Team%20Group%20Photo.jpg?raw=true)
-
 # Table of Contents
 * [Introduction](https://egr314-team-305.github.io/Team305.github.io/#introduction-team-305-semester-project)
 * [Team Organization](https://egr314-team-305.github.io/Team305.github.io/#team-organization)
@@ -47,9 +45,10 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 ## Design Ideation and Final Design Selection 
 
   After we completed our user needs, we brainstormed any ideas we could think of that complies with our necessary measures. This landed us with three results. The third result we thought about was an automated door opener. Second was a temperature and light controlled fan, which would turn on when it's too hot or lights turn on. Our final design, which is what we chose, is a Home Room Weather Control System. This chosen design would operate window blinds based on external and internal conditions. If it's too bright, blinds close through the use of a motor controlled by the system. If it's too hot inside, it will close as well. If the room is cold, then the blinds will be opened, if external conditions meet specified criteria. Full details can be found on our [Design Ideation](/DIFDS.md) page.
-  
-  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/CAD%20model%20image.png?raw=true)
 
+<p align="center" width="100%">
+  <img align="center" width="100%" src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/CAD%20model%20image.png?raw=true">    
+</p>
 
 ## Block Diagram
 
@@ -69,8 +68,9 @@ Diego Rodriguez, Uriah Villa, Jack Windle, Nicholas Dunn
 
   With our components selected, we had to use the program Cadence in order to generate a hardware diagram. This process was difficult due to our inexperience with the software, as well as some issues with our initial part selections. This resulting schematic for our PCB shows how each chip connects to eachother as well as the schematic for each part. 
 
-  ![image caption](https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true)
-
+<p align="center" width="100%">
+  <img align="center" width="100%" src="https://github.com/EGR314-Team-305/Team305.github.io/blob/main/media/EGR%20314%20Team%20PCB%202.0%20UDV.png?raw=true">    
+</p>
 
   For the software aspects of our project, we ended up using a program called MPLab X. this software is excellent for coding microcontollers sice we can set aspects of every part we need. Ranging from complex EUSART configs to setting individual pins for input/output data, this program allowed us to complete the code for our project easily and efficiently.
 
